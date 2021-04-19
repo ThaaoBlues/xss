@@ -1,1 +1,5 @@
-window.onload = alert('XSS');
+window.onload = function(){
+  
+  alert('XSS');
+  console.log('xss executed');
+}
