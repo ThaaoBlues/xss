@@ -1,1 +1,1 @@
-window.alert('XSS');
+window.onload = alert('XSS');
