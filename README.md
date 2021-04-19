@@ -1,2 +1,2 @@
 # xss
-a javascript file with an alert that i need to execute a XSS (may delete later)
+a javascript file with an alert that i need to include and execute a XSS on a challenge (may delete later)
